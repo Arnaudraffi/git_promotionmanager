@@ -81,5 +81,5 @@ test:
 production:
   <<: *default
   database: promotion-manager_production
-  username: promotion-manager
-  password: <%= ENV['PROMOTION-MANAGER_DATABASE_PASSWORD'] %>
+  username: railsusr
+  password: 0KVFS2t2
